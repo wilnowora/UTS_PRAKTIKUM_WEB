@@ -1,0 +1,9 @@
+#kotak123{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    background-color: rgb(221, 0, 255);
+    border-color: black;
+    border: solid 5px;
+
+}
