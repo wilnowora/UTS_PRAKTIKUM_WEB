@@ -14,6 +14,6 @@ function random(number) {
 
 document.onclick = function () {
 acak = "rgb(" + random(255) +"," + random(255) +"," +random(255) + ")";
-kotak123.style.background = acak
+box.style.background = acak
 
 }
