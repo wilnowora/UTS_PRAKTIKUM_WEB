@@ -1,4 +1,4 @@
-let box = document.getElementById('box');
+const box = document.getElementById('box');
 
 document.onmousemove = (event) => {
     var x = event.clientX;
